@@ -1,11 +1,11 @@
 # crypto-trading
 
-## RSI strategy
+## [RSI strategy](https://github.com/eugenioclrc/crypto-trading/blob/master/RSI.ipynb)
 
 Bad idea!, the ROI percentage negative, also you have to take in consideration
 the buy&sell fees
 
-´´´
+```
 BTCUSD
 ntrades 51 , mean roi 0.0026732290726156184
 ETHUSD
@@ -20,4 +20,4 @@ LTCBTC
 ntrades 53 , mean roi -0.006085037037699648
 XMRBTC
 ntrades 39 , mean roi 0.025003177837482283
-´´´
+```
