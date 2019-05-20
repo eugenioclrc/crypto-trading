@@ -1,6 +1,6 @@
 # crypto-trading
 
-## RSI strategy
+## [RSI strategy](https://github.com/eugenioclrc/crypto-trading/blob/master/RSI.ipynb)
 
 Bad idea!, the ROI percentage negative, also you have to take in consideration
 the buy&sell fees
